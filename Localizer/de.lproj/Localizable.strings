@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localizer
+
+  Created by Stanly Shiyanovskiy on 3/3/19.
+  Copyright © 2019 Stanly Shiyanovskiy. All rights reserved.
+*/
+
+"Hello" = "Hallo";
+"Select current language" = "Wählen Sie aktuelle Sprache aus";
